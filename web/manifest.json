@@ -1,6 +1,6 @@
 {
-    "name": "easy_attendance",
-    "short_name": "easy_attendance",
+    "name": "easy_test",
+    "short_name": "easy_test",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
