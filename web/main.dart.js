@@ -6171,7 +6171,7 @@ else m=!1
 if(m)r=""
 m=r==null
 l=!m
-a=A.a5Q(a,0,a.length,j,b,l)
+a=A.a5Q(a,0,a==null?0:a.length,j,b,l)
 k=b.length===0
 if(k&&m&&!B.b.az(a,"/"))a=A.a1b(a,!k||l)
 else a=A.i7(a)
@@ -31510,14 +31510,14 @@ $0(){var s=0,r=A.a1(t.H),q=this,p,o,n
 var $async$$0=A.a2(function(a,b){if(a===1)return A.Z(b,r)
 while(true)switch(s){case 0:++q.a.d
 s=5
-return A.X(A.Zn(A.Y4("01028621556","itmsqrapp")),$async$$0)
+return A.X(A.Zn(A.Y4(null,"blackjinapp://action")),$async$$0)
 case 5:s=b?2:4
 break
 case 2:s=6
-return A.X(A.ZS(A.Y4("01028621556","itmsqrapp")),$async$$0)
+return A.X(A.ZS(A.Y4(null,"blackjinapp://action")),$async$$0)
 case 6:s=3
 break
-case 4:throw A.b("Can't phone that number.")
+case 4:throw A.b("Can't launch blackjinapp://action.")
 case 3:p=A
 o="openAppResult => "
 n=A
