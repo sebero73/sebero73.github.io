@@ -31509,7 +31509,7 @@ A.WU.prototype={
 $0(){var s=0,r=A.a1(t.H),q=this,p,o,n
 var $async$$0=A.a2(function(a,b){if(a===1)return A.Z(b,r)
 while(true)switch(s){case 0:++q.a.d
-B.Z.BU(window,"itmsqrapp://action","")
+B.Z.BU(window,"itmsqrapp://action?image=20220815","test")
 s=5
 return A.X(A.Zn(A.Y4(null,"itmsqrapp://action")),$async$$0)
 case 5:s=b?2:4
