@@ -1,6 +1,6 @@
 {
-    "name": "QRScan",
-    "short_name": "QRScan",
+    "name": "QRScanUser",
+    "short_name": "QRScanUser",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
