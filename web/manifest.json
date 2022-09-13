@@ -1,11 +1,11 @@
 {
-    "name": "QRScan",
-    "short_name": "QRScan",
+    "name": "qr_code_scanner_web_example",
+    "short_name": "qr_code_scanner_web_example",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Demonstrates how to use the qr_code_scanner_web plugin.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
