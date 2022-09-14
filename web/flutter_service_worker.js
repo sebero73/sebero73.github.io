@@ -4,8 +4,8 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "ff966ab969ba381b900e61629bfb9789",
-"index.html": "de57a02cfb5ebaaac8b098df4b39bf9d",
-"/": "de57a02cfb5ebaaac8b098df4b39bf9d",
+"index.html": "410628dbca6267befa0e63ee76de3ab7",
+"/": "410628dbca6267befa0e63ee76de3ab7",
 "main.dart.js": "2a2db85a26d04ee8a300e314e4c51b66",
 "flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
@@ -18,7 +18,7 @@ const RESOURCES = {
 "assets/NOTICES": "5b27bb2b3284733420fe59379d29e372",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"assets/packages/simple_barcode_scanner/assets/barcode.html": "698edc9d432f10f2bfad3dcc4bf9bd98",
+"assets/packages/simple_barcode_scanner/assets/barcode.html": "7f4e8ffba39ebfeb2131eadbc0b697a5",
 "assets/packages/simple_barcode_scanner/assets/html5-qrcode.min.js": "157c564823c850c8832b8bc75b392526",
 "assets/shaders/ink_sparkle.frag": "2a72f233a4cf54d2cb6888049f9a264d",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
